@@ -1,1 +1,0 @@
-# Devnagari-Character-Recognition
